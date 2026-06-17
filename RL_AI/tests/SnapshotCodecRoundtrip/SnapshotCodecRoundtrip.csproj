@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Game.Network\Game.Network.csproj" />
+    <ProjectReference Include="..\..\Game.RL_Server\Game.RL_Server.csproj" />
+    <ProjectReference Include="..\..\SeaEngine\csharp\SeaEngine\SeaEngine.csproj" />
+  </ItemGroup>
+</Project>

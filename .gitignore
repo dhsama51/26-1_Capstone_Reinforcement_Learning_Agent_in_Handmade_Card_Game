@@ -481,8 +481,3 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-RL_AI/models/models_20260514_stage1_vs_stage2_before_patch1_4096_9216.zip
-RL_AI/models/models_20260518_stage1_vs_stage2_after_patch1_7168_9728.zip
-RL_AI/models/models_20260518_stage1_vs_stage2_after_patch2_6144_9728.zip
-RL_AI/models/models_20260519_after_patch2_four.zip
-RL_AI/models/models_20260519_before_patch1_four.zip
